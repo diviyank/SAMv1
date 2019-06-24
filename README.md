@@ -1,5 +1,5 @@
 # SAM: Structural Agnostic Model, Causal Discovery and Penalized Adversarial Learning.
-Code in PyTorch. Link to the paper: https://arxiv.org/abs/1803.04929
+Code in PyTorch. Link to the paper: https://arxiv.org/abs/1803.04929v1
 
 In order to use SAM:
 1. Install the package requirements with ```pip install -r requirements.txt```. For PyTorch visit: http://pytorch.org
